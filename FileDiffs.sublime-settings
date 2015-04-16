@@ -1,0 +1,4 @@
+{
+	//"open_in_sublime": false,
+	//"cmd": ["WebStorm.exe", "diff", "$file1", "$file2"]
+}
