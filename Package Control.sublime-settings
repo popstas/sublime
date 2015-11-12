@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -35,6 +36,7 @@
 		"Python Auto-Complete",
 		"Python Breakpoints",
 		"SFTP",
+		"Shell Exec",
 		"StringEncode",
 		"SublimeCodeIntel",
 		"SublimeLinter",
@@ -43,6 +45,7 @@
 		"SublimeLinter-pep8",
 		"SublimeLinter-php",
 		"SublimeLinter-phplint",
+		"Terminal",
 		"Theme - Soda",
 		"WordHighlight",
 		"Xdebug Client",

@@ -1,6 +1,7 @@
 # Sublime Text 3 config
 
 This is Package/User directory from Sublime Text config directory.
+
 About config sync - https://packagecontrol.io/docs/syncing
 
 ## Install
