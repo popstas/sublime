@@ -1,0 +1,11 @@
+{
+    "replacements": {
+        // Example replacements
+        "vse10": {
+            "find": ":(.*?)\n(.*?)\n(.*?)\\.(.*)",
+            "replace": ":\\1\t\\2\t\\3,\\4",
+            "greedy": true,
+            "case": false
+        }
+	}
+}

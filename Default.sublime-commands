@@ -1,0 +1,8 @@
+[
+    {
+        "caption": "Replace vse10.ru",
+        "command": "open_file",
+        "command": "reg_replace",
+        "args": {"replacements": ["vse10"]}
+    }
+]
